@@ -9,6 +9,6 @@ Nommer deux points à améliorer de votre présentation et expliquer comment vou
 M'assurer de mettre du son pour toutes les scènes. Je dois aussi m'assurer de bien regarder les consignes.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Quelle présentation avez-vous préférée et pourquoi? 
 
 Anna, surtout pour la musique.
