@@ -2,11 +2,12 @@
 ## Retour sur la visite de SidLee et PixMob
 
 ### Intérêt
-Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes) 
-J'ai plus aimer SidLee, pour leur bureaux exceptionnelles, leurs horaire flexibles, leurs cafétéria et tous les autres avantages sociaux qui sont a leurs dispositions.
-De plus, je préfére travailler sur un site web plutot que de faire des jeux de lumiere.
+Laquelle des conférences as-tu préférée et pourquoi? (2 à 3 lignes) 
+J'ai plus aimé SidLee, pour leurs bureaux exceptionnels, leurs horaires flexibles, leurs cafétérias et tous les autres avantages sociaux qui sont a leurs dispositions.
+De plus, je préfère travailler sur un site web plutôt que de faire des jeux de lumière.
 
 ### Travail
 Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
 
-Je ne pense pas a cause que je vise plus le jeux vidéo, réalité virtuel et le cinéma. Mais si j'ai a choisir je prend SidLee sans hésiter. Ils ont des bureaux exceptionnelles ainsi que plusieurs avantages sociaux intéressant dont un horraire tres flexible.
+Je ne pense pas à cause que je vise plus le jeu vidéo, réalité virtuelle et le cinéma. Mais si j'ai à choisir, je prends SidLee sans hésiter. Ils ont des bureaux exceptionnels ainsi que plusieurs avantages sociaux intéressants, dont un horaire très flexible.
+
