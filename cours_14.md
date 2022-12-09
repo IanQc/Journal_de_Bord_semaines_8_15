@@ -5,15 +5,15 @@ Durée: 8 à 10 minutes
 ### Résumer votre projet en une phrase
 Résumer le projet en une phrase concise.  
 
-Nous créons un jeux vidéos de pirate réaliste en réalité virtuelle.
+Nous créons un jeu vidéo de pirate réaliste en réalité virtuelle.
 
 
 ### Description du projet 
 
 Décrivez les grandes lignes de votre projet. 
 
-Notre jeux est un monde ouvert, permettant de faire du pvp, pve, faire des quêtes, contruire, explorer ou combattre ou ont veut quand on le veut.
-Il est accessible a tous et contient les meilleurs graphisme et fonctionalité de vr.
+Notre jeu est un monde ouvert, permettant de faire du pvp, pve, faire des quêtes, construire, explorer ou combattre ou ont veut quand on le veut.
+Il est accessible à tous et contient les meilleurs graphismes et fonctionnalités de vr.
 
 
 ### Schéma du projet ou scénarimage
@@ -27,8 +27,14 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
+
 La réalité virtuelle.
 
 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Évaluation
+Concept
+Maquette
+Réalisation
+Opération
